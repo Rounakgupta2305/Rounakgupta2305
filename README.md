@@ -33,6 +33,5 @@
 ![GithubPages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
 #### Others:
-![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Safari](https://img.shields.io/badge/Safari-000000?style=flat&logo=Safari&logoColor=white)
 ![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
