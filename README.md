@@ -38,3 +38,4 @@
 #### Others:
 ![Safari](https://img.shields.io/badge/Safari-000000?style=flat&logo=Safari&logoColor=white)
 ![MacOS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rounakgupta2305&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rounakgupta2305" /></p>
