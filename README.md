@@ -1,3 +1,14 @@
+<br>
+
+<div align="center" width="100%">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&height=60&lines=Hi%2C+I%27m+Rounak+Gupta" alt="Typing SVG" />
+</div>
+
+<br>
+
+- 🌱 Currently learning **NextJS and TypeScript**
+- 🔍 Looking for chances to work together on open-source projects.
+
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:1si21ec080@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-gupta-416616229/)
