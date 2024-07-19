@@ -10,12 +10,12 @@
 - 🏫 Undergrad at SIT, Tumkur
 
 
-## 🧑🏻‍💻 About Me
+# 🧑🏻‍💻 About Me
 I am Rounak Gupta from Siddaganga Institute of Technology, Tumkur, Karnataka currently in the 6th semester pursuing Electronics and Communication Engineering having a CGPA of 8.05. 
 I have developed a strong proficiency in MERN stack and have successfully built and deployed several projects using these technologies. My passion lies in leveraging technology to craft innovative solutions for real-world challenges. 
 Additionally, I have a solid understanding of Computer Science Fundamentals.
 
-## Projects
+# 📂 Projects
 
 
 [![SIT verse](https://img.shields.io/badge/SIT%20Verse-800000?style=for-the-badge)](https://6692ee3b9ef7e2afa95fc28b--monumental-marigold-7599bb.netlify.app/) 
@@ -25,7 +25,7 @@ Additionally, I have a solid understanding of Computer Science Fundamentals.
 [![Portfolio](https://img.shields.io/badge/Portfolio-50c878?style=for-the-badge)](https://my-portfolio-phi-ruby-55.vercel.app/)
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:1si21ec080@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-gupta-416616229/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rounak___gupta/)
