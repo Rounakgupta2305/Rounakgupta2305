@@ -7,7 +7,7 @@
 <br>
 
 - 🌱 Currently learning **NextJS and TypeScript**
-- 🔍 Looking for chances to work together on open-source projects.
+
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:1si21ec080@gmail.com)
