@@ -7,7 +7,13 @@
 <br>
 
 - 🌱 Currently learning **NextJS and TypeScript**
+- 🏫 Undergrad at SIT, Tumkur
 
+<br>
+## About ME
+I am Rounak Gupta from Siddaganga Institute of Technology, Tumkur, Karnataka currently in the 6th semester pursuing Electronics and Communication Engineering having a CGPA of 8.05. 
+I have developed a strong proficiency in MERN stack and have successfully built and deployed several projects using these technologies. My passion lies in leveraging technology to craft innovative solutions for real-world challenges. 
+Additionally, I have a solid understanding of Computer Science Fundamentals.
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:1si21ec080@gmail.com)
