@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-gupta-416616229/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rounak___gupta/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Rounakgupta2305/)
-[![PortFolio](https://img.shields.io/badge/-Portfolio-7C2327?style=flat&labelColor=7C2327&logoColor=white)](https://my-portfolio-phi-ruby-55.vercel.app/)
+[![PortFolio](https://img.shields.io/badge/Portfolio-7C2327)](https://my-portfolio-phi-ruby-55.vercel.app/)
 # 💻 Tech Stack:
 
 #### Frontend:
