@@ -20,7 +20,7 @@ Additionally, I have a solid understanding of Computer Science Fundamentals.
 
 [![SIT verse](https://img.shields.io/badge/SIT%20Verse-800000?style=for-the-badge)](https://6692ee3b9ef7e2afa95fc28b--monumental-marigold-7599bb.netlify.app/) 
 [![Inventora](https://img.shields.io/badge/Inventora-02066f?style=for-the-badge)](https://inventora-inventory-management-system.vercel.app/) 
-[![CodeCollab](https://img.shields.io/badge/CodeCollab-e6b400?style=for-the-badge)](https://6692c7bc9c198187826b3c60--lovely-semolina-ee15e4.netlify.app/) 
+[![CodeCollab](https://img.shields.io/badge/CodeCollab-e6b400?style=for-the-badge)](https://66c2a8921f6ae62d9b98d7ad--snazzy-malabi-662301.netlify.app/) 
 [![Popcornify](https://img.shields.io/badge/Popcornify-e81e63?style=for-the-badge)](https://main--comfy-flan-fd13ac.netlify.app/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-50c878?style=for-the-badge)](https://my-portfolio-phi-ruby-55.vercel.app/)
 
