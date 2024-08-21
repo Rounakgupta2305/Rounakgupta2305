@@ -27,7 +27,7 @@ Additionally, I have a solid understanding of Computer Science Fundamentals.
 
 
 # 🌐 Socials:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:1si21ec080@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rounak.1si21ec080@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-gupta-416616229/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rounak___gupta/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Rounakgupta2305/)
