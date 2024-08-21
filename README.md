@@ -14,8 +14,7 @@
 I am Rounak Gupta from Siddaganga Institute of Technology, Tumkur, Karnataka currently in the 6th semester pursuing Electronics and Communication Engineering having a CGPA of 8.05. 
 I have developed a strong proficiency in MERN stack and have successfully built and deployed several projects using these technologies. My passion lies in leveraging technology to craft innovative solutions for real-world challenges. 
 Additionally, I have a solid understanding of Computer Science Fundamentals.
-<br>
-[![Resume](https://img.shields.io/badge/Resume-00C6B7?logo=resume&logoColor=white)](https://drive.google.com/file/d/1kQtS53QMnT1By6lvJotjKmYUdwmJtDT1/view) 
+
 # 📂 Projects
 
 
@@ -31,6 +30,7 @@ Additionally, I have a solid understanding of Computer Science Fundamentals.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rounak-gupta-416616229/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rounak___gupta/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Rounakgupta2305/)
+[![Resume](https://img.shields.io/badge/Resume-00C6B7?logo=resume&logoColor=white)](https://drive.google.com/file/d/1kQtS53QMnT1By6lvJotjKmYUdwmJtDT1/view) 
 [![My PortFolio](https://img.shields.io/badge/My%20Portfolio-7C2327?styleflat&logo=ko-fi&logoColor=white)](https://my-portfolio-phi-ruby-55.vercel.app/)
 # 💻 Tech Stack:
 
