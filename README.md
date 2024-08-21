@@ -15,7 +15,7 @@ I am Rounak Gupta from Siddaganga Institute of Technology, Tumkur, Karnataka cur
 I have developed a strong proficiency in MERN stack and have successfully built and deployed several projects using these technologies. My passion lies in leveraging technology to craft innovative solutions for real-world challenges. 
 Additionally, I have a solid understanding of Computer Science Fundamentals.
 <br>
-[![Resume](https://img.shields.io/badge/Resume-00C6B7?style=for-the-badge&logo=folder&logoColor=white)](https://drive.google.com/file/d/1kQtS53QMnT1By6lvJotjKmYUdwmJtDT1/view) 
+[![Resume](https://img.shields.io/badge/Resume-00C6B7?logo=resume&logoColor=white)](https://drive.google.com/file/d/1kQtS53QMnT1By6lvJotjKmYUdwmJtDT1/view) 
 # 📂 Projects
 
 
