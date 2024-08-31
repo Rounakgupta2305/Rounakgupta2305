@@ -55,6 +55,8 @@ Additionally, I have a solid understanding of Computer Science Fundamentals.
 ![Clerk](https://img.shields.io/badge/Clerk-0078D4?style=for-the-badge&logo=clerk&logoColor=white)
 #### Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 #### Tools:
