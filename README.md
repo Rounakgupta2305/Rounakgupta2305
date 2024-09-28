@@ -5,8 +5,8 @@
 </div>
 
 <br>
-- 🏢 Software Developer Intern **@Myntra**
-- 🌱 Currently learning **NextJS and TypeScript**
+- 🏢 Software Developer Intern @Myntra
+- 🌱 Currently learning NextJS and TypeScript
 - 🏫 Undergrad at SIT, Tumkur
 
 
