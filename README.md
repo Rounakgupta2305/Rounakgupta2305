@@ -7,7 +7,7 @@
 <br>
 
 - 🏢 Software Developer Intern **@Myntra**
-- 🔍 Currently learning NextJS and TypeScript
+- 🔍 Currently learning **NextJS and TypeScript**
 
 
 # 🧑🏻‍💻 About Me
